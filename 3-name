@@ -1,0 +1,2 @@
+#!/bin/bash
+makefile main;makefile main.exe; export CFILE = main.c
